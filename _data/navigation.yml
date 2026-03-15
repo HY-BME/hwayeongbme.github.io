@@ -4,10 +4,10 @@ main:
     url: https://hy-bme.github.io/hwayeongbme.github.io/
 
   - title: "About"
-    url: https://github.com/HY-BME/bme_test_files/blob/main/README.md
+    url: # - https://github.com/HY-BME/bme_test_files/blob/main/README.md
 
   - title: "GitHub"
-    url: https://github.com/HY-BME
+    url: # - https://github.com/HY-BME
 
   # - title: "Projects"
   #   url: /projects/
