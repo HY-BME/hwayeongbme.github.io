@@ -3,11 +3,11 @@ title: "VS Code Python Debuging 시 느려지는 현상 해결"
 excerpt: "Python 환경 검색 방식을 변경하거나 캐시를 초기화하여 해결"
 
 categories:
-  - Categories5
+  - Settings
 tags:
   - [tag1, tag2]
 
-permalink: /categories5/post-name-here-5/
+permalink: /Settings/post-name-here-5/
 
 toc: true
 toc_sticky: true
