@@ -1,9 +1,9 @@
 ---
 title: "유용한 논문들"
 layout: category
-permalink: /categories/categories4/
+permalink: /categories/Papers/
 author_profile: true
-taxonomy: Categories4
+taxonomy: Papers
 sidebar:
   nav: "categories"
 ---
