@@ -3,7 +3,7 @@ title: "지도학습과 비지도학습의 차이"
 excerpt: "지도학습과 비지도학습의 용어적 설명 및 종류에 대하여 학습"
 
 categories:
-  - Categories1
+  - ML
 tags:
   - [tag1, tag2]
 
