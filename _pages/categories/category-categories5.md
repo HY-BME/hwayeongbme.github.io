@@ -1,9 +1,9 @@
 ---
 title: "환경설정 팁"
 layout: category
-permalink: /categories/categories5/
+permalink: /categories/Settings/
 author_profile: true
-taxonomy: Categories5
+taxonomy: Settings
 sidebar:
   nav: "categories"
 ---
