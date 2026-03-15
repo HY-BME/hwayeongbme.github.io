@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://hy-bme.github.io/hwayeongbme.github.io/
 
   - title: "About"
-    url: /about/
+    url: https://github.com/HY-BME/bme_test_files/blob/main/README.md
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/HY-BME
 
   # - title: "Projects"
   #   url: /projects/
@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
+  - title: "ML"
     url: /categories/categories1/
-  - title: "Categories2"
+  - title: "DL"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "의공학 응용"
     url: /categories/categories3/
-  - title: "Categories4"
+  - title: "유용한 논문들"
     url: /categories/categories4/
