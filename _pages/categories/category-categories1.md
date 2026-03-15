@@ -1,9 +1,9 @@
 ---
 title: "ML"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/ML/
 author_profile: true
-taxonomy: Categories1
+taxonomy: ML
 sidebar:
   nav: "categories"
 ---
