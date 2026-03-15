@@ -18,4 +18,6 @@ last_modified_at: 2026-03-15
 
 ## 🦥 본문
 
+![image](./assets/images/posts_img/example.png)
+
 
