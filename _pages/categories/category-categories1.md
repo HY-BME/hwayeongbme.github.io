@@ -3,7 +3,7 @@ title: "ML"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
-taxonomy: ML
+taxonomy: Categories1
 sidebar:
   nav: "categories"
 ---
