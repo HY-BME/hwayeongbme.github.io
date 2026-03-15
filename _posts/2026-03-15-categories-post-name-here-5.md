@@ -28,7 +28,12 @@ last_modified_at: 2026-03-15
 
 <img width="928" height="204" alt="Image" src="https://github.com/user-attachments/assets/fe5d5401-df3e-4250-b294-a6ed2e89eefc" />
 
+&nbsp;
+&nbsp;
+
 방법 2: 파이썬 Language Server 설정 변경 (Pylance/Jedi) 
 
 설정 방법: Ctrl + , (Mac: Cmd + ,) -> python language server 검색 -> Jedi 대신 Pylance 선택.
 Jedi 비활성화: 코드 자동 완성이 너무 느리다면 설정에서 Jedi Enable을 체크 해제(False)합니다. 
+
+<img width="494" height="117" alt="Image" src="https://github.com/user-attachments/assets/f1de45e7-09e5-43d7-a896-5232262f93e6" />
