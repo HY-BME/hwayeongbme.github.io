@@ -26,7 +26,7 @@ last_modified_at: 2026-03-15
 3. Python > Locator 항목을 찾아 드롭다운 메뉴에서 native를 js 로 변경합니다.
 4. VS Code를 재시작합니다.
 
-<img width="928" height="204" alt="Image" src="https://github.com/user-attachments/assets/fe5d5401-df3e-4250-b294-a6ed2e89eefc" />
+<img width="928" height="204" alt="Image" src="https://github.com/user-attachments/assets/c6039761-b649-4030-b08b-0facfa9873c8" />
 
 &nbsp;
 &nbsp;
@@ -36,4 +36,4 @@ last_modified_at: 2026-03-15
 설정 방법: Ctrl + , (Mac: Cmd + ,) -> python language server 검색 -> Jedi 대신 Pylance 선택.
 Jedi 비활성화: 코드 자동 완성이 너무 느리다면 설정에서 Jedi Enable을 체크 해제(False)합니다. 
 
-<img width="494" height="117" alt="Image" src="https://github.com/user-attachments/assets/f1de45e7-09e5-43d7-a896-5232262f93e6" />
+<img width="494" height="117" alt="Image" src="https://github.com/user-attachments/assets/bfbdba61-1b60-439d-8948-3d47f2e3ce9a" />
