@@ -1,9 +1,9 @@
 ---
 title: "DL"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/DL/
 author_profile: true
-taxonomy: Categories2
+taxonomy: DL
 sidebar:
   nav: "categories"
 ---
