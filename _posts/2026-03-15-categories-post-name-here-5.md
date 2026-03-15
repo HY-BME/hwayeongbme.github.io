@@ -1,6 +1,6 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "VS Code Python Debuging 시 느려지는 현상 해결"
+excerpt: "Python 환경 검색 방식을 변경하거나 캐시를 초기화하여 해결"
 
 categories:
   - Categories5
@@ -18,4 +18,13 @@ last_modified_at: 2026-03-15
 
 ## 🦥 본문
 
-본문은 여기에 ...
+방법 1: Python Locator 설정 변경 (권장)
+새로 도입된 native 방식 대신, 기존의 안정적인 js 방식으로 검색 도구를 변경하면 문제가 즉시 해결됩니다.
+
+1. VS Code에서 설정(Settings)을 엽니다. (단축키: Ctrl + , 또는 Cmd + ,)
+2. 검색창에 Python Locator를 입력합니다.
+3. Python > Locator 항목을 찾아 드롭다운 메뉴에서 native를 js 로 변경합니다.
+4. VS Code를 재시작합니다.
+
+<img width="928" height="204" alt="Image" src="https://github.com/user-attachments/assets/fe5d5401-df3e-4250-b294-a6ed2e89eefc" />
+
