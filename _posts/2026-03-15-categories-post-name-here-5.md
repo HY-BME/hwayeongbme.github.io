@@ -16,7 +16,7 @@ date: 2026-03-15
 last_modified_at: 2026-03-15
 ---
 
-## 🦥 본문
+## 🦥 VS Code Python Debuging 시 느려지는 현상 해결방법
 
 방법 1: Python Locator 설정 변경 (권장)
 새로 도입된 native 방식 대신, 기존의 안정적인 js 방식으로 검색 도구를 변경하면 문제가 즉시 해결됩니다.
