@@ -16,7 +16,7 @@ date: 2026-03-15
 last_modified_at: 2026-03-15
 ---
 
-## 🦥 본문
+## 🦥 지도학습의 의미와 종류
 <img width="672" height="312" alt="Image" src="https://github.com/user-attachments/assets/1101825e-56b4-4d0e-a828-cdc06579e81a" />    
 
 &nbsp;
