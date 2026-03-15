@@ -19,7 +19,9 @@ last_modified_at: 2026-03-15
 ## 🦥 본문
 <img width="672" height="312" alt="Image" src="https://github.com/user-attachments/assets/1101825e-56b4-4d0e-a828-cdc06579e81a" />
 
+
 **지도학습(Supervised Learning)**
+
 
 1. 지도 학습(Supervised Learning)
 
@@ -28,11 +30,15 @@ last_modified_at: 2026-03-15
 학습 후 검증 데이터를 통해 적절하게 학습되었는지 모델을 검증하는 과정을 거친다. 
 사람으로 비유하자면 학생이 학교에서 수업을 듣고(훈련 데이터로부터의 학습), 시험을 통해 평가(모델 검증)받는 것이다. 분류나 회귀 작업들이 대표적인 지도 학습의 예시이다.
 
-1. 주요 분류 (Task Types)
+
+2. 주요 분류 (Task Types)
+   
 **분류 (Classification)**: 데이터를 정해진 카테고리(범주)로 분류합니다. (예: 스팸 메일 분류, 질병 유무 진단, 이미지 객체 인식)
 **회귀 (Regression)**: 연속적인 수치를 예측합니다. (예: 주가 예측, 부동산 가격 예측, 온도 예측)
 
-2. 주요 알고리즘 (Algorithms)
+
+3. 주요 알고리즘 (Algorithms)
+   
 **선형 회귀 (Linear Regression)**: 변수 간의 선형 상관관계를 모델링하여 수치를 예측
 
 **로지스틱 회귀 (Logistic Regression)**: 데이터가 특정 범주에 속할 확률을 0과 1 사이로 예측하여 분류
